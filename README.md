@@ -4,6 +4,8 @@ Welcome to my Portfolio where I provide a walkthrough to my data analytics proje
 
 Feel free to add me on [LinkedIn](https://www.linkedin.com/in/rustammorengo/)!
 
+ALL INFORMATION BELOW DOES NOT ANYHOW RELATE TO ME. THIS IS JUST A SAMPLE INFORMATION FROM GREAT PORTFOLIO BY [KATIEHUANGX](https://github.com/katiehuangx)!!!
+
 ## 📚 Table of Contents
 
 - [Python](#python)
