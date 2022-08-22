@@ -20,7 +20,7 @@ Feel free to add me on [LinkedIn](https://www.linkedin.com/in/rustammorengo/)!
 Skills: Data cleaning, wrangling, visualisation, analysis
 Libraries: pandas, numpy, matplotlib, seaborn
 
-| Project Name | Description | Tools |    
+| Project Name | Description &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Tools |    
 |---|---|---|
 | 🚀 [Space Missions](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Project%202%20-%20TMDB%20Movie%20Analysis.ipynb) | Single page visual that captures the awe of outer space through our history with space travel | _Excel,   Power Query, Visualization_ |   
 | ⛽️ [Fuel Economy](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Case%20Study%202%20-%20Fuel%20Economy.ipynb) | Data Wrangling & EDA | Analysis on vehicles’ fuel economy in 2008 and 2018 to understand usage of alternative sources of fuel, changes in greenhouse gas and smog ratings over the decade, and vehicle features associated with better fuel economy. _(It's more interesting than the summary sounds, I promise!)_ |  _pandas, matplotlib_ |   
