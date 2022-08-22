@@ -21,7 +21,7 @@ Skills: Data cleaning, wrangling, visualisation, analysis
 
 | Project Name | Description | SQL Functions |
 |---|---|---|
-| 🚀 [Space Missions](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Project%202%20-%20TMDB%20Movie%20Analysis.ipynb) | Single page visual that captures the awe of outer space through our history with space travel | _Excel,   Power Query, Visualization_ |   
+| 🚀 [Space Missions](https://www.linkedin.com/posts/rustammorengo_excel-excel-datavisualization-activity-6961119646099865600-Ax91?utm_source=linkedin_share&utm_medium=member_desktop_web) | Single page visual that captures the awe of outer space through our history with space travel | _Excel,   Power Query, Visualization_ |   
 | 🛍 [Maven Fuzzy Factory - Ongoing](https://github.com/katiehuangx/Udemy-Advanced-MySQL) | I analyse and optimise marketing channels, measure and test website conversion performance and use data to understand impact of new product and campaign launches for an online retailer. | Advanced SQL |  
 | 🎬 [Marketing Analytics Case Study - Ongoing](https://github.com/katiehuangx/Serious-SQL-Apprenticeship/blob/main/Marketing%20Analytics%20Case%20Study.md)  |  |  | 
 | 🍜[Danny's Diner](https://github.com/katiehuangx/8-Week-SQL-Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner) |  |  |  
