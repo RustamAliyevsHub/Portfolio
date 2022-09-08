@@ -19,7 +19,7 @@ Feel free to add me on [LinkedIn](https://www.linkedin.com/in/rustammorengo/)!
 
 Skills: Data cleaning, wrangling, visualisation, analysis
 
-| Project Name | Description | SQL Functions |
+| Project Name | Description | Tools and skills |
 |---|---|---|
 | 🚀 [Space Missions](https://www.linkedin.com/posts/rustammorengo_excel-excel-datavisualization-activity-6961119646099865600-Ax91?utm_source=linkedin_share&utm_medium=member_desktop_web) | Challenge by [Maven Analytics](https://www.mavenanalytics.io/blog/maven-space-challenge). Single page visual that captures the awe of outer space through our history with space travel | _Excel,   Power Query, Visualization_ |   
 | 🏊‍♀️ [Top 200 world times in swimming styles](https://www.linkedin.com/posts/rustammorengo_romaniandata-romaniandatatribe-dataviz-activity-6973279468459073536-5QLG?utm_source=share&utm_medium=member_desktop) | Challenge by [RomanianDATA Tribe](https://data.world/romanian-data/swimming-dataset-top-200-world-times). Single page visual that captures some interesting facts based on top 200 times in swimming styles | _Excel,   Power Query, Visualization_ |  
