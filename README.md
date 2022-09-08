@@ -8,21 +8,21 @@ Feel free to add me on [LinkedIn](https://www.linkedin.com/in/rustammorengo/)!
 
 ## 📚 Table of Contents
 
-- [Maven Analytics](#maven-analytics)
+- [Dashboard Challenges](#dashboards)
 - [HackerRank](#sql)
 - [DataCamp](#tableau)
 - [Other](#katies-guides)
 
 ***
 
-# Maven Analytics
+# Dashboards
 
 Skills: Data cleaning, wrangling, visualisation, analysis
 
 | Project Name | Description | SQL Functions |
 |---|---|---|
-| 🚀 [Space Missions](https://www.linkedin.com/posts/rustammorengo_excel-excel-datavisualization-activity-6961119646099865600-Ax91?utm_source=linkedin_share&utm_medium=member_desktop_web) | Single page visual that captures the awe of outer space through our history with space travel | _Excel,   Power Query, Visualization_ |   
-| 🛍 [Maven Fuzzy Factory - Ongoing](https://github.com/katiehuangx/Udemy-Advanced-MySQL) | I analyse and optimise marketing channels, measure and test website conversion performance and use data to understand impact of new product and campaign launches for an online retailer. | Advanced SQL |  
+| 🚀 [Space Missions](https://www.linkedin.com/posts/rustammorengo_excel-excel-datavisualization-activity-6961119646099865600-Ax91?utm_source=linkedin_share&utm_medium=member_desktop_web) | Challenge by [Maven Analytics](https://www.mavenanalytics.io/blog/maven-space-challenge). Single page visual that captures the awe of outer space through our history with space travel | _Excel,   Power Query, Visualization_ |   
+| 🏊‍♀️ [Top 200 world times in swimming styles](https://www.linkedin.com/posts/rustammorengo_romaniandata-romaniandatatribe-dataviz-activity-6973279468459073536-5QLG?utm_source=share&utm_medium=member_desktop) | Challenge by [RomanianDATA Tribe](https://data.world/romanian-data/swimming-dataset-top-200-world-times). Single page visual that captures some interesting facts based on top 200 times in swimming styles | _Excel,   Power Query, Visualization_ |  
 | 🎬 [Marketing Analytics Case Study - Ongoing](https://github.com/katiehuangx/Serious-SQL-Apprenticeship/blob/main/Marketing%20Analytics%20Case%20Study.md)  |  |  | 
 | 🍜[Danny's Diner](https://github.com/katiehuangx/8-Week-SQL-Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner) |  |  |  
 | 🍕[Pizza Runner](https://github.com/katiehuangx/8-Week-SQL-Challenge/tree/main/Case%20Study%20%232%20-%20Pizza%20Runner) |  |  |  
