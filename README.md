@@ -24,16 +24,6 @@ Skills: Data cleaning, wrangling, visualisation, analysis
 | 🚀 [Space Missions](https://www.linkedin.com/posts/rustammorengo_excel-excel-datavisualization-activity-6961119646099865600-Ax91?utm_source=linkedin_share&utm_medium=member_desktop_web) | Challenge by [Maven Analytics](https://www.mavenanalytics.io/blog/maven-space-challenge). Single page visual that captures the awe of outer space through our history with space travel | _Excel,   Power Query, Visualization_ |   
 | 🏊‍♀️ [Top 200 world times in swimming styles](https://www.linkedin.com/posts/rustammorengo_romaniandata-romaniandatatribe-dataviz-activity-6973279468459073536-5QLG?utm_source=share&utm_medium=member_desktop) | Challenge by [RomanianDATA Tribe](https://data.world/romanian-data/swimming-dataset-top-200-world-times). Single page visual that captures some interesting facts based on top 200 times in swimming styles | _Excel,   Power Query, Visualization_ |  
 | ⚽ [Maven World Cup](https://www.linkedin.com/posts/rustammorengo_south-korea-in-maven-world-cup-challenge-activity-7000946922765053953-pHNt?utm_source=share&utm_medium=member_desktop)  | Challenge by [Maven Analytics](https://www.mavenanalytics.io/blog/maven-space-challenge). Single-page story of South Korea history with the World Cup, their road to 2022 FIFA World Cup in Qatar, and their expectations for this year's tournament. | _Excel, Power Point, Power Query, Visualization_ | 
-| 🍜[Danny's Diner](https://github.com/katiehuangx/8-Week-SQL-Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner) |  |  |  
-| 🍕[Pizza Runner](https://github.com/katiehuangx/8-Week-SQL-Challenge/tree/main/Case%20Study%20%232%20-%20Pizza%20Runner) |  |  |  
-| 🥑[Foodie-Fi](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%233%20-%20Foodie-Fi) |  |  |  
-| 🏦[Data Bank](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%234%20-%20Data%20Bank) |  |  |  
-| 🌽[Data Mart](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%235%20-%20Data%20Mart) |  |  |  
-| 🎣[Clique Bait](https://github.com/katiehuangx/8-Week-SQL-Challenge/tree/main/Case%20Study%20%236%20-%20Clique%20Bait) |  |  |  
-| 🍒[Fresh Segments](https://github.com/katiehuangx/8-Week-SQL-Challenge/tree/main/Case%20Study%20%238:%20Fresh%20Segments) |  |  |  
-| 👩🏻‍⚕️ [Health Analytics Case Study](https://github.com/katiehuangx/Serious-SQL-Apprenticeship/blob/main/Health%20Analytics%20Mini%20Case%20Study.md) |  | Temporary tables, Aggregations, Joins, CTEs, Window functions (summary statistics: mode, median) |  
-| 🦠 [Covid-19 and the Impact on Malaysia Stock Market](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market) | A project close to 🏡 home. Inspired by Alex Freberg's [Data Exploration Project](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1), I analysed global and local Covid-19 cases & the impact on Malaysia stock market from Jan 2020 to Jul 2021 using SQL and Tableau. |  |
-| 👩🏻‍💼 [Streamlining Employee Data](https://github.com/katiehuangx/DataCamp-Projects/blob/main/Streamlining%20Employee%20Data/Streamlining%20Employee%20Data.ipynb) |  |  |
 
 ***
 
